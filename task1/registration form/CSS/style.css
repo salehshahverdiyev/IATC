@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(226, 230, 223) ;
+    border-bottom-width: 10px;
+    border-top-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-bottom-color: aliceblue;
+    border-top-color: aliceblue;
+    border-left-color: aliceblue;
+    border-right-color: aliceblue;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+}
+
+main {
+    margin: 50px;
+}
+
+
+
+
+   
+
+    
