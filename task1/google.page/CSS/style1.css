@@ -19,6 +19,8 @@ input {
     color: white;
     width: 800px;
     height: 50px;
+    font-size: 20px;
+}
 }
 
 button {
