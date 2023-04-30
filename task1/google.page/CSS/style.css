@@ -36,7 +36,9 @@ body {
 
 
 input {
-    font-size: 40px;
+    width: 520px;
+    height: 40px;
+    font-size: 20px;
     border-radius: 30px;
     color: white;
     background-color:rgb(37, 39, 43) ;
